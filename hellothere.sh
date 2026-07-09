@@ -1,0 +1,3 @@
+FIRST_NAME=Samuel
+LAST_NAME=Asaolu
+echo hello $FIRST_NAME $LAST_NAME
